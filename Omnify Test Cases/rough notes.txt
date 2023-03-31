@@ -1,0 +1,115 @@
+https://www.getomnify.com/
+email=ronadpraksh@gmail.com
+password:29101996
+Requirements:
+	When the user opens the browser and enters the URL "https://www.getomnify.com/"  
+Omnify welcome page should be displayed with the following features
+1. Features
+2.Resources
+3. Pricing
+4. Join our community
+5. Talk to the sales button
+6. Signup, its a free button
+7. Book a demo button
+8.all the required details and information should be displayed 
+
+-------------
+
+"Requirements:
+1. User should be able to signup or login successfully
+2. User should be able to sign up through google or email 
+
+
+Email ID:praveenbronad@gmail.com
+Password:praveen@123(This is dummy password for testing purpose only)
+
+=========
+
+Requirements 1. User should be able to click on the services module and services page should be displayed to user with following components 
+> Manage AddOns Button
+> Create a Service Button
+>All services Tab
+> Classes Tab
+> CLasspacks
+>Evenets
+> APppointments
+>Facilities
+> Memberships 
+> Serach by service name text field
+> Filters
+> List 
+>Grid
+> Class Details with share, clone and delete options 
+=
+
+============
+
+"Requirements 1. User as a admin should be able to create access service such as class, appoinmnets, evenets, classpacks,Faciltiies and Memberships
+
+
+class, appoinmnets, evenets, classpacks,Faciltiies and Memberships options should be dispalyed 
+
+=========
+Create class page should be displayed  with following web elements 
+Basic Details Section 
+1. Class title text field
+2. Class Description Text Area
+3. Class color radio buttons
+4.Upload image dialouge box
+
+Class Details Section
+5. Add loaction Drop down 
+     Option1: Online
+     Option 2: Offline
+6. Add Address textfield
+7.Add trainer drop down with add new trainer option 
+8.Service type DropDown with option > Paid > free
+9.Add Price Text filed
+10.Attendee limit text filed max 9999
+
+Class Schedule Section
+
+11. Day of the week drop down with following options
+    > Weekends
+    > Weekdays
+    > Daily
+    > Custom
+12. Start Date  dropdown with following options
+    > Today
+    > Select Date Date Picker 
+13. Start TIme Drop down 
+14 . End Date Date  dropdown with following options
+    > Today
+    > Select Date Date Picker
+15. End  TIme Drop down 
+
+Booking Window Section
+16. Booking Window Opens before no of days drop down
+17. Booking window CLoses before dropdown
+
+
+===============
+
+
+Ready to publish pop up should be displayed with following components 
+1. Public Radio button
+2. Privite Radio Button
+
+
+
+ 
+=========
+Add Trainer Page should be displayed with following components
+1. Trainer Name Text Field
+2. Trainer Email text field
+3. Discard Button 
+4. Add Button 
+
+
+Trainer Name: Prakash
+EMail ID: ronadprakash@gmail.com
+
+
+
+  
+
